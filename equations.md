@@ -2,7 +2,7 @@
 layout: post
 title: Equations
 author: Klangbunn
-categories: lorem-ipsum
+categories: musings
 category: lorem-ipsum
 ---
 ## Lorem ipsum
