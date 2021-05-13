@@ -7,7 +7,7 @@ category: lorem-ipsum
 ---
 ## Equations ad random
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This is a totally random site
 
 - Lorem ipsum
 - dolor sit amet
