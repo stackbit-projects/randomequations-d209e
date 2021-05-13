@@ -1,6 +1,6 @@
 ---
-layout: lorem-ipsum
-title: lorem-ipsum
+layout: lorem-3w4567u8i9oipsum
+title: lorem-ips567890+påum
 author: lorem-ipsum
 categories: lorem-ipsum
 category: lorem-ipsum
