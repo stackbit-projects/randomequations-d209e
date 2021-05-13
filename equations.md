@@ -1,7 +1,7 @@
 ---
 layout: post
-title: lorem-ipsum
-author: lorem-ipsum
+title: Equations
+author: Klangbunn
 categories: lorem-ipsum
 category: lorem-ipsum
 ---
